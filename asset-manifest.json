@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.41c0e977.css",
+    "main.js": "/Portfolio-Website/static/js/main.f8291601.js",
+    "static/media/Me.png": "/Portfolio-Website/static/media/Me.a5de4b7e6d7b94ecdddf.png",
+    "static/media/php-original.svg": "/Portfolio-Website/static/media/php-original.1e73afc4967ab2fe950ba75b323d73b4.svg",
+    "static/media/ui-design.png": "/Portfolio-Website/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/mysql-original-wordmark.svg": "/Portfolio-Website/static/media/mysql-original-wordmark.de1f441d77fea35c2d6e1338f3cc540a.svg",
+    "static/media/java.svg": "/Portfolio-Website/static/media/java.fa3aaa0d9601f02765fd0f91adf5f205.svg",
+    "static/media/javascript.svg": "/Portfolio-Website/static/media/javascript.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/css3.svg": "/Portfolio-Website/static/media/css3.1d023123249332b8246d98e506eaa7a6.svg",
+    "static/media/html5.svg": "/Portfolio-Website/static/media/html5.ed5a66323fb7466700b1b551dcf00ea5.svg",
+    "static/media/csharp-original.svg": "/Portfolio-Website/static/media/csharp-original.4b8080ff785d7bd4f1b95178568e9ba1.svg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.41c0e977.css.map": "/Portfolio-Website/static/css/main.41c0e977.css.map",
+    "main.f8291601.js.map": "/Portfolio-Website/static/js/main.f8291601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c0e977.css",
+    "static/js/main.f8291601.js"
+  ]
+}
