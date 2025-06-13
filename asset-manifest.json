@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.43d9b656.css",
-    "main.js": "/Portfolio-Website/static/js/main.191b5d02.js",
+    "main.css": "/Portfolio-Website/static/css/main.6868ccdc.css",
+    "main.js": "/Portfolio-Website/static/js/main.fa2dbc04.js",
+    "static/media/InTheShadows2.png": "/Portfolio-Website/static/media/InTheShadows2.0ea38dab742c4d6f4872.png",
+    "static/media/InTheShadows3.png": "/Portfolio-Website/static/media/InTheShadows3.369cad04eec56902dd0d.png",
+    "static/media/InTheShadows4.png": "/Portfolio-Website/static/media/InTheShadows4.d5b96dd3d45635c4ddc3.png",
+    "static/media/InTheShadows5.png": "/Portfolio-Website/static/media/InTheShadows5.fc2a0d15aaf72041b2bc.png",
+    "static/media/InTheShadows6.png": "/Portfolio-Website/static/media/InTheShadows6.fe6d02de4ec82e19a661.png",
     "static/media/Me.png": "/Portfolio-Website/static/media/Me.a5de4b7e6d7b94ecdddf.png",
-    "static/media/Irfan Arshad - Developer - CV - 2024.pdf": "/Portfolio-Website/static/media/Irfan Arshad - Developer - CV - 2024.16bbc85f682fa2c4d59b.pdf",
+    "static/media/InTheShadows1.png": "/Portfolio-Website/static/media/InTheShadows1.7ac79fac6e025c7c937f.png",
+    "static/media/Irfan Arshad - Developer - CV - 2025.pdf": "/Portfolio-Website/static/media/Irfan Arshad - Developer - CV - 2025.979aa115e8f275da0956.pdf",
     "static/media/php-original.svg": "/Portfolio-Website/static/media/php-original.1e73afc4967ab2fe950ba75b323d73b4.svg",
     "static/media/ui-design.png": "/Portfolio-Website/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "static/media/mysql-original-wordmark.svg": "/Portfolio-Website/static/media/mysql-original-wordmark.de1f441d77fea35c2d6e1338f3cc540a.svg",
@@ -13,11 +19,11 @@
     "static/media/html5.svg": "/Portfolio-Website/static/media/html5.ed5a66323fb7466700b1b551dcf00ea5.svg",
     "static/media/csharp-original.svg": "/Portfolio-Website/static/media/csharp-original.4b8080ff785d7bd4f1b95178568e9ba1.svg",
     "index.html": "/Portfolio-Website/index.html",
-    "main.43d9b656.css.map": "/Portfolio-Website/static/css/main.43d9b656.css.map",
-    "main.191b5d02.js.map": "/Portfolio-Website/static/js/main.191b5d02.js.map"
+    "main.6868ccdc.css.map": "/Portfolio-Website/static/css/main.6868ccdc.css.map",
+    "main.fa2dbc04.js.map": "/Portfolio-Website/static/js/main.fa2dbc04.js.map"
   },
   "entrypoints": [
-    "static/css/main.43d9b656.css",
-    "static/js/main.191b5d02.js"
+    "static/css/main.6868ccdc.css",
+    "static/js/main.fa2dbc04.js"
   ]
 }
